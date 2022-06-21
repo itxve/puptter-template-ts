@@ -1,0 +1,4 @@
+# copy指令复制时忽略的文件
+node_modules
+.history
+dist

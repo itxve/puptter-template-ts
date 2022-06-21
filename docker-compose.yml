@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  puptter-compose:
+    image: puptter-ts-tpl
+    container_name: puptter-compose
+    ports: 
+     # 宿主端口:容器端口
+      - 7120:7120
+    volumes:
+     # 宿主文件路径:容器文件路径
+      - /Users/apple/Desktop/puptter-ts-template:/app
+    environment:
+      - name=value  
+            
