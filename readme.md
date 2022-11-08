@@ -40,6 +40,7 @@ Docker 还需努力学习😄
 
 ## 参考 
 
+#### [Playwright](https://github.com/microsoft/playwright)
 #### [Chromium淘宝镜像](https://npm.taobao.org/mirrors/chromium-browser-snapshots/Linux_x64/)
 #### [Chromium Downloads](https://chromium.cypress.io/)
 ##### [Puppeteer](https://developers.google.com/web/tools/puppeteer/get-started)
